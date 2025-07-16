@@ -1,4 +1,4 @@
-# Power-bi-Walmart-project-
+# Power-bi-Flipmart-project-
 🚀 Project Overview:
 Developed an interactive Flipmart Sales Dashboard to track key sales metrics from 2019 to 2022, enabling data-driven decision-making.
 🛠️ Tools & Skills Used:
